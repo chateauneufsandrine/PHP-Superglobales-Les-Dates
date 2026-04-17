@@ -16,7 +16,7 @@
 </head>
 <body>
     
-<?= date("d/m/y") ?>
+<?= date("d/m/Y") ?>
 
 
 </body>
